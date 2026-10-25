@@ -1,0 +1,19 @@
+SkynetRED — Interstellar Open Source Intelligence
+Copyright (c) 2026 Robert Auxt. All rights reserved.
+
+You may download, install and use this software free of charge for personal, non-commercial purposes.
+
+You may not, without written permission:
+  - sell it, rent it, or use it to provide a commercial product or service;
+  - redistribute modified copies of it;
+  - decompile, disassemble or otherwise reverse-engineer it, except where the law expressly allows this.
+
+The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the
+warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the author be
+liable for any claim, damages or other liability arising from, out of or in connection with the software or its use.
+Information shown by the software comes from third-party public sources, may be incomplete, delayed or wrong, and must
+not be relied on for navigation, safety, or any decision with legal or financial consequences.
+
+Third-party software and data included with SkynetRED remain under their own licences (THIRD-PARTY-NOTICES.txt); this
+licence does not restrict the rights those licences give you. Data fetched from public services while SkynetRED runs
+is subject to those services' terms.
